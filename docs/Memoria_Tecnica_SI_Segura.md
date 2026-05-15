@@ -1,12 +1,13 @@
 
 
-El Marco Legal y la Estructura del "Relato"
+**El Marco Legal y la Estructura del "Relato"**
 
 Nombre: Jose Luis Segura Fernández  
 Asignatura: Sistemas informáticos  
 Profesor/a: Willman Acosta Lugo  
 Fecha de entrega: 15/05/2026  
-ÍNDICE
+
+**ÍNDICE**
 
 [**1\. Analisis de Necesidades**](#id1)
 
