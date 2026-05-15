@@ -3,4 +3,4 @@
 **Conexion inicial** Primero me conecte mediante ssh al localhost
 ![Conexion Inicial](conexioninicial.png)
 **Generacion llave** Generacion de llaves
-![Conexion Inicial](conexioninicial.png)
+![Conexion Inicial](generacionllave.png)
